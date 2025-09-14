@@ -1,0 +1,9 @@
+{
+	"features": {
+		"ghcr.io/devcontainers/features/node:1": {
+			"nodeGypDependencies": false,
+			"version": "latest"
+		}
+	},
+	"image": "mcr.microsoft.com/devcontainers/base:ubuntu"
+}
